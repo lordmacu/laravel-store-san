@@ -1,0 +1,2 @@
+[08-Apr-2014 08:52:54 America/Denver] PHP Fatal error:  Class 'Eloquent' not found in /home/hostmisa/public_html/prueba/app/models/ImagenesProducto.php on line 3
+[08-Apr-2014 08:53:07 America/Denver] PHP Fatal error:  Class 'Eloquent' not found in /home/hostmisa/public_html/prueba/app/models/Color.php on line 3
